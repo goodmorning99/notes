@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다!"
+              "title": "index"
             }
           }
         ]
@@ -206,9 +206,9 @@
   },
   "active": "fcfe09b28b8030b7",
   "lastOpenFiles": [
+    "환영합니다!.md",
     "index.md",
     "무제.md",
-    "환영합니다!.md",
     "무제.base",
     "무제 1.base"
   ]
